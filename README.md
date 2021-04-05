@@ -2,9 +2,18 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Web part will add TODO data to SharePoint list.
 
-[picture of the solution in action, if possible]
+Web Part UI
+![image](https://user-images.githubusercontent.com/18139035/113552269-8bdd1900-9613-11eb-83fb-f0b8f0d1c104.png)
+
+SharePoint List:
+![image](https://user-images.githubusercontent.com/18139035/113552468-d199e180-9613-11eb-9a3a-d77370ab13a1.png)
+
+Webpart use React, redux, Thunk, and Selector....  
+
+![image](https://user-images.githubusercontent.com/18139035/113552684-1aea3100-9614-11eb-907f-74f8b7f9c2ab.png)
+
 
 ## Used SharePoint Framework Version
 
